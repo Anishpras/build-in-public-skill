@@ -1,0 +1,13 @@
+{
+  "name": "build-in-public",
+  "version": "1.0.0",
+  "description": "Turns what you shipped, decided, learned or measured into X and LinkedIn posts as numbered episodes, using rules from X's open-sourced ranking code, and keeps a local ledger of drafts, posts and metrics. Drafts only; never posts.",
+  "author": {
+    "name": "anishpras",
+    "url": "https://github.com/anishpras"
+  },
+  "homepage": "https://github.com/anishpras/build-in-public-skill",
+  "repository": "https://github.com/anishpras/build-in-public-skill",
+  "license": "MIT",
+  "keywords": ["build-in-public", "x", "twitter", "linkedin", "gtm", "founder", "content", "social-media", "skill"]
+}

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# drafts and ledger created if the skill is run inside this repo
+build-in-public/

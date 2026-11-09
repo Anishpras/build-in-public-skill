@@ -1,0 +1,15 @@
+{
+  "name": "build-in-public-skill",
+  "owner": {
+    "name": "anishpras",
+    "url": "https://github.com/anishpras"
+  },
+  "plugins": [
+    {
+      "name": "build-in-public",
+      "source": "./",
+      "description": "Build-in-public and founder GTM posts for X and LinkedIn, grounded in X's open-sourced ranking code, with a local ledger of drafts and posts.",
+      "version": "1.0.0"
+    }
+  ]
+}
